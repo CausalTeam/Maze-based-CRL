@@ -4,8 +4,8 @@ Maze based causal reinforcement learning (Maze-based-CRL)是一种因果强化�
 ## 环境安装
 推荐使用conda安装虚拟环境，推荐使用ubuntu系统，在命令行中运行：
 ```bash
-conda create -n cdrl python=3.9
-conda activate cdrl
+conda create -n mbcrl python=3.9
+conda activate mbcrl
 pip install torch torchvision torchaudio
 pip install gymnasium
 ```
